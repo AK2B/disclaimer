@@ -1,0 +1,28 @@
+/*
+    Arnaud Boisjardin
+    DWWM 2020-2021
+*/
+
+a.btn-red {
+    color: #fff;
+    background: #da1e1e;
+    padding: .5rem 1rem;
+    display: inline-block;
+    border-radius: 4px;
+    transition-duration: .25s;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+a.btn-green {
+    color: #fff;
+    background: #2eb434;
+    padding: .5rem 1rem;
+    display: inline-block;
+    border-radius: 4px;
+    transition-duration: .25s;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+}
